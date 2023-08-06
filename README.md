@@ -20,14 +20,15 @@ This project demonstrates the capabilities of Kotlin Multiplatform (KMP) technol
 **koin** Koin is a lightweight dependency injection framework for Kotlin. It provides a simple and intuitive API for managing dependencies in your application. In this project, Koin is used to handle dependency injection, making it easy to manage and provide instances of various components
 
 
+## Demo
+ 
 
+https://github.com/Muzamilabdallah/shopy/assets/47520464/87218734-2236-40cc-b66c-291d1881b253
  
 
 ## Authors
 
 - [@Muzamil](https://github.com/Muzamilabdallah)
- 
-**RemoteMediator** -
  
  
 ## License
@@ -37,9 +38,7 @@ This project demonstrates the capabilities of Kotlin Multiplatform (KMP) technol
 
  
 
-## Demo
- 
-https://github.com/Muzamilabdallah/shopy/issues/1#issue-1838316671
+
 
 
  
@@ -59,29 +58,6 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
  
 
  
-
-## Authors
-
-- [@Muzamil](https://github.com/Muzamilabdallah)
-
- 
-## Tech Stack
- 
-**Jetpack Compose** -
-**GraphQl**-
-**apolloCLient**
-**Mvvm**
-**hilt** -
-**Room**-
-**Pagin3**
-**RemoteMediator** -
- 
- 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-
  
  
 
