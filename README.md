@@ -6,7 +6,7 @@ This project demonstrates the capabilities of Kotlin Multiplatform (KMP) technol
  
 
  
-**Compose Multplatform:** Compose Multiplatform is a declarative UI framework developed by Google for building native applications on multiple platforms, including iOS and Android. It allows for the creation of beautiful and interactive user interfaces using a single codebase
+**Compose Multplatform:** Compose Multiplatform is a declarative UI framework developed by JetBrains for building native applications on multiple platforms, including iOS and Android. It allows for the creation of beautiful and interactive user interfaces using a single codebase
 
 
 **Voyager**: Voyager is a navigation library designed specifically for Kotlin Multiplatform projects. It allows for seamless navigation between screens and supports both iOS and Android platforms. With Voyager, you can define and manage your navigation routes in a centralized manner
